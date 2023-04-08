@@ -1,2 +1,2 @@
-# scripts-alexa
+# Scripts
 Scripts PowerShell Alexa
