@@ -1,2 +1,2 @@
-# Scripts
-Scripts PowerShell Alexa
+# Scripts Power Shell
+Scripts PowerShell.
